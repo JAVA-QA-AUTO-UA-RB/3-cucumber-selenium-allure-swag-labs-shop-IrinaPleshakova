@@ -7171,3 +7171,207 @@
 2024-09-18 15:37:14 INFO  org.example.steps.CheckoutSteps - Verifying confirmation message: Thank you for your order!
 2024-09-18 15:37:14 INFO  org.example.pages.OrderConfirmationPage - Confirmation message: Thank you for your order!
 2024-09-18 15:37:14 INFO  org.example.steps.CheckoutSteps - Order confirmation verified successfully
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.58 (resolved driver for Chrome 129)
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:51 INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\iryna\.cache\selenium\chromedriver\win64\129.0.6668.58\chromedriver.exe
+2024-09-18 17:23:52 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:52 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:52 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:52 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:52 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Navigating to Swag Labs login page
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: invalid_user and password: invalid_password
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: invalid_user
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entering username: locked_out_user and password: secret_sauce
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering username: locked_out_user
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:53 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:53 INFO  org.example.steps.CheckoutSteps - Adding product Sauce Labs Backpack to the cart
+2024-09-18 17:23:53 INFO  org.example.pages.ProductsPage - Adding product Sauce Labs Backpack to cart
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Login page loaded successfully
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entering username: standard_user and password: secret_sauce
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Entering username: standard_user
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Adding product Sauce Labs Bolt T-Shirt to the cart
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Adding product Sauce Labs Bolt T-Shirt to cart
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Clicking on product Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicking on product Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicking on cart icon
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Adding default product to the cart
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Adding product Sauce Labs Backpack to cart
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Clicking on product Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicking on product Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Navigated to cart page
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Clicking on the shopping cart icon
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicking on cart icon
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Verifying product details page for Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.pages.ProductDetailsPage - Getting product name from product details page
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicking on cart icon
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying login error message: Epic sadface: Username and password do not match any user in this service
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Error message: Epic sadface: Username and password do not match any user in this service
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Error message verified successfully
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the menu button
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicking the menu button
+2024-09-18 17:23:54 INFO  org.example.pages.ProductDetailsPage - Product name on details page: Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Product details page for Sauce Labs Backpack is displayed
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Clicking the back button on product details page
+2024-09-18 17:23:54 INFO  org.example.pages.ProductDetailsPage - Clicking the back button on product details page
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Navigated to the shopping cart page
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Proceeding to checkout
+2024-09-18 17:23:54 INFO  org.example.pages.CartPage - Clicking checkout button
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Navigated to cart page
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Verifying product details page for Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Proceeding to checkout
+2024-09-18 17:23:54 INFO  org.example.pages.ProductDetailsPage - Getting product name from product details page
+2024-09-18 17:23:54 INFO  org.example.pages.CartPage - Clicking checkout button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Entering password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying login error message: Epic sadface: Sorry, this user has been locked out.
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Error message: Epic sadface: Sorry, this user has been locked out.
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Error message verified successfully
+2024-09-18 17:23:54 INFO  org.example.pages.ProductDetailsPage - Product name on details page: Sauce Labs Backpack
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Product details page for Sauce Labs Backpack is displayed
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Selecting option: Logout
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Selecting menu option Logout
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Adding product Sauce Labs Backpack to the cart
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Entering checkout information: {First Name=Irina, Last Name=Pleshakova, Postal Code=12345}
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Leaving first name field empty
+2024-09-18 17:23:54 INFO  org.example.pages.CheckoutPage - Entering first name: Irina
+2024-09-18 17:23:54 INFO  org.example.pages.CheckoutPage - Entering first name: 
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Adding product Sauce Labs Backpack to cart
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Burger menu is visible
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Product Sauce Labs Backpack added to the cart
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Verifying cart icon displays 1
+2024-09-18 17:23:54 INFO  org.example.steps.CatalogSteps - Cart icon displays 1
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Entered username and password
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Clicking the login button
+2024-09-18 17:23:54 INFO  org.example.pages.LoginPage - Clicking login button
+2024-09-18 17:23:54 INFO  org.example.steps.CheckoutSteps - Entering last name: Pleshakova and postal code: 12345
+2024-09-18 17:23:54 INFO  org.example.pages.CheckoutPage - Entering last name: Pleshakova
+2024-09-18 17:23:54 INFO  org.example.pages.CheckoutPage - Entering last name: Pleshakova
+2024-09-18 17:23:54 INFO  org.example.pages.ProductsPage - Clicked on Logout button
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the login page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Successfully redirected to the login page
+2024-09-18 17:23:54 INFO  org.example.steps.LoginSteps - Verifying redirection to the products page
+2024-09-18 17:23:55 INFO  org.example.steps.LoginSteps - Successfully redirected to the products page
+2024-09-18 17:23:55 INFO  org.example.steps.CatalogSteps - Verifying that we are on the products page
+2024-09-18 17:23:55 INFO  org.example.steps.CatalogSteps - Products page is displayed
+2024-09-18 17:23:55 INFO  org.example.steps.CatalogSteps - Adding product Sauce Labs Backpack to the cart
+2024-09-18 17:23:55 INFO  org.example.pages.ProductsPage - Adding product Sauce Labs Backpack to cart
+2024-09-18 17:23:55 INFO  org.example.pages.CheckoutPage - Entering postal code: 12345
+2024-09-18 17:23:55 INFO  org.example.pages.CheckoutPage - Entering postal code: 12345
+2024-09-18 17:23:55 INFO  org.example.steps.CatalogSteps - Product Sauce Labs Backpack added to the cart
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Clicking on the shopping cart icon
+2024-09-18 17:23:55 INFO  org.example.pages.ProductsPage - Clicking on cart icon
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Clicking the continue button
+2024-09-18 17:23:55 INFO  org.example.pages.CheckoutPage - Clicking continue button
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Navigated to the shopping cart page
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Removing product Sauce Labs Backpack from the cart during checkout
+2024-09-18 17:23:55 INFO  org.example.pages.CartPage - Removing product Sauce Labs Backpack from cart
+2024-09-18 17:23:55 INFO  org.example.pages.CheckoutPage - Clicking continue button
+2024-09-18 17:23:55 INFO  org.example.pages.CartPage - Product Sauce Labs Backpack removed from cart
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Product Sauce Labs Backpack removed from the cart
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Verifying that the cart is empty
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Verifying checkout error message: Error: First Name is required
+2024-09-18 17:23:55 INFO  org.example.pages.CartPage - Cart empty status: true
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Cart is empty as expected
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Checkout information entered
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Finishing the checkout process
+2024-09-18 17:23:55 INFO  org.example.pages.CheckoutPage - Clicking finish button
+2024-09-18 17:23:55 INFO  org.example.pages.CheckoutPage - Error message: Error: First Name is required
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Checkout error message verified successfully
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Verifying confirmation message: Thank you for your order!
+2024-09-18 17:23:55 INFO  org.example.pages.OrderConfirmationPage - Confirmation message: Thank you for your order!
+2024-09-18 17:23:55 INFO  org.example.steps.CheckoutSteps - Order confirmation verified successfully
